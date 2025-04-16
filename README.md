@@ -1,5 +1,4 @@
   👋 Hi, I’m Karla Leiva Arauz
-  I'm a Civil Engineering graduate from the University of Costa Rica with a strong interest in **sustainability**, **bamboo construction**, and **data analysis**. Curious, adaptable, and committed to continuous learning
 
 🌱 About Me
 😄 Pronouns: she/her
