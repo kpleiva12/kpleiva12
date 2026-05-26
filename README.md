@@ -3,30 +3,27 @@
 🌱 About Me
 😄 Pronouns: she/her
 
-🎓 Data Analyst with a background in Civil Engineering, focused on sustainability, geospatial analysis, and data-driven decision-making.
+🎓 Geospatial & Sustainability Data Analyst focused on environmental data, spatial analysis, and GIS workflows.
 
-🌍 I enjoy working with data to identify patterns, improve processes, and support real-world problem solving through analytics and visualization.
+🌍 I work with QGIS, Python, and data visualization tools to explore sustainability challenges through mapping, geospatial analytics, and environmental datasets.
 
-🔍 Interests
-- Data Analytics
-- Sustainability & Environmental Data
-- GIS & Geospatial Analysis
-- Python 
-- Data Visualization
+🔍 Focus Areas
+- Geospatial Data Analysis
+- Sustainability & Environmental Analytics
+- GIS Workflows with QGIS
+- Spatial Data Visualization
+- Environmental Mapping
 
-🛠️Technical Skills
-- Programming & Query Languages: Python (Pandas, NumPy, SciPy, Streamlit), SQL, R
-- Data Analysis & Statistics: Exploratory Data Analysis (EDA), Data Cleaning & Transformation, Descriptive & Inferential Statistics, A/B Testing
-- Visualization & Tools: Tableau, Streamlit, Git, GitHub, Excel
+🛠️ Core Tools
+- QGIS
+- Python (Pandas, GeoPandas)
+- SQL
+- Tableau
+- Streamlit
+- Git & GitHub
 - Methodologies & Workflows: ETL/ELT, Data Wrangling, Dashboard Development, Agile/Scrum
 
-💡 Currently Learning
-- Advanced GIS + Python workflows
-- Geospatial data analysis
-- Data applications for sustainability and infrastructure
 
 🌱 How to reach me
 🔗 [LinkedIn](https://www.linkedin.com/in/kpleiva12)
 📬 [Email] kpleiva12@gmail.com
-
-
